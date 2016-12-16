@@ -1,0 +1,122 @@
+* {
+    /*margin: 0;
+padding: 0;*/
+}
+
+#bootstrap-overide body {
+    width: 100% !important;
+    height: auto !important;
+}
+
+
+/*#bootstrap-overide .navbar {
+    background-color: #FFC126;
+}*/
+
+#bootstrap-overide img {
+    width: 100%;
+    height: auto;
+    margin: 1rem 0 1rem 0;
+}
+
+#bootstrap-overide form {
+    margin: 1rem 0 1rem 0;
+}
+
+#bootstrap-overide .min {
+    min-height: 995px;
+    margin: 1rem 0 0 0;
+}
+
+#bootstrap-overide p,
+#bootstrap-overide a,
+#bootstrap-overide .form-group {
+    font-family: 'PT Serif', serif !important;
+}
+
+#bootstrap-overide .lead {
+    margin: 2rem 0 0 0;
+}
+
+#bootstrap-overide h1,
+#bootstrap-overide h4 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+#bootstrap-overide footer .row {
+    /* width: 100%;
+ height: auto;*/
+}
+
+#bootstrap-overide #navBar {
+    width: 100%;
+    height: auto;
+    margin: 13rem 0 0 0;
+    position: relative;
+    top: 0;
+    bottom: 0;
+}
+
+#bootstrap-overide .navbar-inner {
+    text-align: center;
+    /*font-size: 2em;*/
+    background-color: #2B2A2B;
+}
+
+#bootstrap-overide .navbar-text {
+    color: #FFFFFF;
+    float: left;
+}
+
+#bootstrap-overide .footer-icons a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    /*background-color: #33383b;*/
+    border-radius: 2px;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+    margin-right: 3px;
+    margin-bottom: 5px;
+}
+
+#bootstrap-overide .footer-icons > a:hover {
+    background-color: #4B33FF;
+}
+
+#bootstrap-overide .facebook {
+    background-color: #3B5698;
+}
+
+#bootstrap-overide .twitter {
+    background-color: #4099FF;
+}
+
+#bootstrap-overide .ytube {
+    background-color: #CC181E;
+}
+
+#bootstrap-overide .link {
+    background-color: #0063B5;
+}
+
+#bootstrap-overide h1 {
+    color: #0FD969;
+}
+
+
+/* @font-face {
+     font-family: 'icomoon';
+     src: url('../fonts/icomoon.eot?5qpgrg');
+     src: url('../fonts/icomoon.eot?5qpgrg#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?5qpgrg') format('truetype'), url('../fonts/icomoon.woff?5qpgrg') format('woff'), url('../fonts/icomoon.svg?5qpgrg#icomoon') format('svg');
+     font-weight: normal;
+     font-style: normal;
+ }
+ 
+ .facebook::before {
+     font-family: 'icomoon';
+     The code below belongs to characer set named UNICODE and defines Google Chrome icon. content: "\ea91";
+ }*/

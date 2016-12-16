@@ -1,0 +1,25 @@
+{
+    "name": "final",
+    "authors": [
+    "Juhi"
+  ],
+    "description": "assignment",
+    "main": "index",
+    "keywords": [
+    "final",
+    "testing"
+  ],
+    "license": "no",
+    "homepage": "no",
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+        "bootstrap": "4.0.0-alpha"
+    }
+}
