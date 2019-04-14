@@ -83,7 +83,7 @@ padding: 0;*/
     margin-bottom: 5px;
 }
 
-#bootstrap-overide .footer-icons > a:hover {
+#bootstrap-overide .footer-icons>a:hover {
     background-color: #4B33FF;
 }
 
@@ -120,3 +120,9 @@ padding: 0;*/
      font-family: 'icomoon';
      The code below belongs to characer set named UNICODE and defines Google Chrome icon. content: "\ea91";
  }*/
+
+@media (max-width:768px) {
+    .collapse {
+        display: none;
+    }
+}
